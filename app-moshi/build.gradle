@@ -49,8 +49,4 @@ dependencies {
 
     // UI-Activity
     implementation "androidx.activity:activity-ktx:1.3.0"
-
-    // UI-Paging
-    implementation "androidx.paging:paging-runtime-ktx:3.0.1"
-    implementation 'androidx.paging:paging-common-ktx:3.0.1'
 }

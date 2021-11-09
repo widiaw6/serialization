@@ -1,4 +1,4 @@
 <resources>
     <string name="app_name">Moshi</string>
-    <string name="title_activity_movie">Movie (Moshi)</string>
+    <string name="title_activity_company_list">Daftar Perusahaan (Moshi)</string>
 </resources>
