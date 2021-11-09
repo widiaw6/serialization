@@ -1,0 +1,572 @@
+{
+  "statusCode": 200,
+  "data": {
+    "internalId": "14e88d033ed779da9b53b00dec3c0cdb528c9dc5c294367c8cbbb45e2c4c6b59",
+    "name": "Tibeka Logistik Indonesia",
+    "description": null,
+    "code": "LABKC",
+    "address": "Jl. Sultan Iskandar Muda No.5, RT.2/RW.6, Kby. Lama Sel., Kec. Kby. Lama, Kota Jakarta Selatan, Daerah Khusus Ibukota Jakarta 12240, Indonesia",
+    "addressDetail": "",
+    "country": "",
+    "province": "",
+    "city": "",
+    "longitude": 106.783531188965,
+    "latitude": -6.24417924880981,
+    "plusCode": "undefined",
+    "isSPPKP": true,
+    "isSIUJPT": true,
+    "authorityName": null,
+    "authorityEmail": null,
+    "authorityDialCode": null,
+    "authorityPhone": null,
+    "expectedRoute": "",
+    "currentCustomerProject": "",
+    "companyFiles": [
+      {
+        "internalId": "99c42e334ee068a4b08a29647156ea7b55524e2c39d89231cd8b72d8654c85f5",
+        "fileName": "IMG_20190818_132223_940.jpg",
+        "fileExtension": "jpeg",
+        "fileSize": "53542",
+        "fileUrl": "https://s3.ap-southeast-1.amazonaws.com/development-user.waresix.com/user/upload/2021/230/e511122f-1572-596a-a50d-00e6fa03c618.jpeg",
+        "fileSignedUrl": "https://s3.ap-southeast-1.amazonaws.com/development-user.waresix.com/user/upload/2021/230/e511122f-1572-596a-a50d-00e6fa03c618.jpeg",
+        "isVerified": null,
+        "companyFileCategory": {
+          "internalId": "0ace657e87cbc063ca6d638cf8fa5d74",
+          "name": "dokumen_plat_kuning",
+          "label": "Dokumen Plat Kuning",
+          "isRequired": false
+        }
+      },
+      {
+        "internalId": "7a1cab5fee7e0554fd527ba1f5a8e8f5c28b068e7bb66e4cd029d03dccb78791",
+        "fileName": "1200x1200bf-60.jpg",
+        "fileExtension": "jpeg",
+        "fileSize": "71402",
+        "fileUrl": "https://s3.ap-southeast-1.amazonaws.com/development-user.waresix.com/user/upload/2021/225/16b0096b-b6a6-5431-97fc-dd37153bacbb.jpeg",
+        "fileSignedUrl": "https://s3.ap-southeast-1.amazonaws.com/development-user.waresix.com/user/upload/2021/225/16b0096b-b6a6-5431-97fc-dd37153bacbb.jpeg",
+        "isVerified": null,
+        "companyFileCategory": {
+          "internalId": "bba5ea7fef2ba9f3f63f4f5ef1ef1fa2987fae28b7c9ec491044ed31c416d3285239762fe51fa9ba1f0c7bbd20471b58",
+          "name": "selfie",
+          "label": "Foto Wajah",
+          "isRequired": false
+        }
+      },
+      {
+        "internalId": "939837308eb1bff673397eef00e0185444034f6e87c7e6cb809c8d69cde3bca6",
+        "fileName": "1..PNG",
+        "fileExtension": "png",
+        "fileSize": "718603",
+        "fileUrl": "https://s3.ap-southeast-1.amazonaws.com/development-user.waresix.com/user/upload/2021/225/f40e8f21-7570-5416-a1ce-c7e2b2fe29eb.png",
+        "fileSignedUrl": "https://s3.ap-southeast-1.amazonaws.com/development-user.waresix.com/user/upload/2021/225/f40e8f21-7570-5416-a1ce-c7e2b2fe29eb.png",
+        "isVerified": null,
+        "companyFileCategory": {
+          "internalId": "b455f4ca025a4f4e0278cfa471036f8442404898e7872bb0fa696014ac5909ce",
+          "name": "sppkp",
+          "label": "SPPKP",
+          "isRequired": false
+        }
+      },
+      {
+        "internalId": "cb19c660f875f79b7bac475ba2b6a0ba5171faf1cf30d6fc505bd052f4fa76e2",
+        "fileName": "1..PNG",
+        "fileExtension": "png",
+        "fileSize": "718603",
+        "fileUrl": "https://s3.ap-southeast-1.amazonaws.com/development-user.waresix.com/user/upload/2021/225/b78d1958-b694-53e9-9e28-2f5dc11d6d35.png",
+        "fileSignedUrl": "https://s3.ap-southeast-1.amazonaws.com/development-user.waresix.com/user/upload/2021/225/b78d1958-b694-53e9-9e28-2f5dc11d6d35.png",
+        "isVerified": null,
+        "companyFileCategory": {
+          "internalId": "b455f4ca025a4f4e0278cfa471036f8442404898e7872bb0fa696014ac5909ce",
+          "name": "sppkp",
+          "label": "SPPKP",
+          "isRequired": false
+        }
+      },
+      {
+        "internalId": "2d6bfe6f73761d56638b00596457c95819f01ec69914e6d355792e6077c9ef86",
+        "fileName": "01 Difference amount 'Total Pelunasan' on 'Detail Permintaan Pelunasan Truk' page.png",
+        "fileExtension": "png",
+        "fileSize": "91146",
+        "fileUrl": "https://storage.googleapis.com/ware6.com/user/upload/2021/68/1c14887b-333a-5ff7-ba70-2064de0a2bd4.png",
+        "fileSignedUrl": "https://storage.googleapis.com/ware6.com/user/upload/2021/68/1c14887b-333a-5ff7-ba70-2064de0a2bd4.png?GoogleAccessId=gcs-waresix%40certain-voyager-260205.iam.gserviceaccount.com&Expires=4133894400&Signature=bL3WJzZ2N4u0D0GxqYjuBrM5%2B5iqMomy4Zx9cvgDjM0%2F6cP8obSSCg6wVYScRb%2FRNu9XSuQtNF%2BHiQr%2FX0XlpnVvKnb7Np%2Bbcf%2BiKsC%2BkDfy3jaSLZnsAFD2MZDiZe0Ry15qRMbSZAWUgvKR0mWCFWRrsV5xM2IdQXWZnumZyC9HTtzTew2h96Fdu%2B8mG%2BoYxNN77oa3qaFWBeU3m1Q%2FV52h6J9kM0onFhW51laKjMxizp244zRKExkCiG3PP60mX47OGgtfDyS1mZ%2FngPNK5QbcFfaJkCrkKUquZQ89B6CNy5rkOU5HLjufiIu7DfsnFSPwy4%2FIzxG6Xyw%2Bl0knHw%3D%3D",
+        "isVerified": null,
+        "companyFileCategory": {
+          "internalId": "7b8dee4bf6cf5f0e582baa866d1b52c5a02d0542348074a7ce03995c321d72fa",
+          "name": "npwp",
+          "label": "NPWP Perusahaan",
+          "isRequired": true
+        }
+      },
+      {
+        "internalId": "6c22a231df22fea6406f0831e0ec8d2bc159531fc471f6b14230c73d0178f623",
+        "fileName": "Beach (1) (1).PNG",
+        "fileExtension": "png",
+        "fileSize": "23066",
+        "fileUrl": "https://storage.googleapis.com/ware6.com/user/upload/2021/48/a5dcc46f-3b17-5898-bcd7-129c45c23064.png",
+        "fileSignedUrl": "https://storage.googleapis.com/ware6.com/user/upload/2021/48/a5dcc46f-3b17-5898-bcd7-129c45c23064.png?GoogleAccessId=gcs-waresix%40certain-voyager-260205.iam.gserviceaccount.com&Expires=4133894400&Signature=hY3zgMZf5gcETiGOTnJT4%2FsswTVUsh6l9WbRai008ACjsZHZUeMQuFxsu5TzsZ1weyVXm8pQIOzULCxyezf5Z1gT9IlIRlDqGioa%2FLKNbonxPhQOQRSw2ju8YnLEr1gCdvImxErtWj4McaTpwDDHqPzBmOUonfK4aowVGLfEUnzWdxBgIcwVBtH2R4EGhzs1O3YVvEfg5WGcO6RbV0VfM1TNldEIgHaPmeD0r6d0caAOz%2BDbeP73HI7pCTZOkUnZL1K%2BXD%2F28scN4awlIzQMf%2B9qR6EOQkXogs0IqfGLcY%2FiOtuOUShUNdE7%2FNm0F%2BpmEhyBKWwBncbpSxJde9%2Bnug%3D%3D",
+        "isVerified": null,
+        "companyFileCategory": {
+          "internalId": "3b6cf49f4a2f867b1dd42bf2f00e14dd5bd8f82670fbdcf8ca36ad2fc683ce41",
+          "name": "siujpt",
+          "label": "SIUP atau SIUJPT",
+          "isRequired": false
+        }
+      },
+      {
+        "internalId": "0d4b0f3e128f77ca8143f7cacebabc818a7b4d42a10ffe53499490c8c63a6a6f",
+        "fileName": "partner2021.png",
+        "fileExtension": "png",
+        "fileSize": "9482",
+        "fileUrl": "https://storage.googleapis.com/ware6.com/user/upload/2021/5/15bbbcbe-3c4b-5ddc-b142-f500e1373f20.png",
+        "fileSignedUrl": "https://storage.googleapis.com/ware6.com/user/upload/2021/5/15bbbcbe-3c4b-5ddc-b142-f500e1373f20.png?GoogleAccessId=gcs-waresix%40certain-voyager-260205.iam.gserviceaccount.com&Expires=4133894400&Signature=RwLIPh4%2Fy8YMn2V9cJ%2FFN45aCOktQCq22ofXAkaUGFXroRYt%2FqxWZwJYBkWYI4nvRxqWEHDylRR0l4yRLO1t06bWk%2BOnqdM8XrU95bfd5rrywNsxjg4Bm7XFpn7%2FGOJt1Qb27fuIvT4%2FtsEzG3hxdBKNLtFFMt4%2B9%2FTlDJWRJf5k9dIZ3gvVq0BdwEBdGhzh4AopUnhs2UtvqTtGrTFKjKXPDaeVt1hKgu7WQfOmYZgSnNPd%2FNomdmQMokd4yG50RCmeguhoGJarZ%2BrzaccPuAyCDZsCGqd7GWEXUYgXh013zM%2BlPeAZb12NP5aqL4oP9vt87X2I%2BI0Z3A6WhVeHDA%3D%3D",
+        "isVerified": true,
+        "companyFileCategory": {
+          "internalId": "f0babac5449a339e6ef5378c3e2dfdd81115bb257ef93787163769aab0df3f25",
+          "name": "tdp_nib",
+          "label": "TDP atau NIB",
+          "isRequired": true
+        }
+      },
+      {
+        "internalId": "929ed1220043e20a3d1996166252b9ace4aad9d0f62a29cb682bb7d7c852f475",
+        "fileName": "sample buku tabungan.jpg",
+        "fileExtension": "jpeg",
+        "fileSize": "65664",
+        "fileUrl": "https://storage.googleapis.com/ware6.com/user/upload/2020/275/bbe55972-d607-5990-aac9-91a94fdcad22.jpeg",
+        "fileSignedUrl": "https://storage.googleapis.com/ware6.com/user/upload/2020/275/bbe55972-d607-5990-aac9-91a94fdcad22.jpeg?GoogleAccessId=gcs-waresix%40certain-voyager-260205.iam.gserviceaccount.com&Expires=4133894400&Signature=soQP6b5VbZQrf9wcfLKvpc3fJtyOZInVGmf%2BUgrX07Y%2B9cydbQPOolb8cd0URtjOh%2FSQaZg33nnJPdcmb%2BVkyLc5fnwg%2FCqwyh0l3kkqCbtypyVRuGcOq1cxhU9fxyHisa6gCDeZAF0i0%2FWF9%2FDuxV9Ry%2Fa8QQCrtzK6%2FwHPo2Y4Gr%2BLNN28G3%2BxmyHQUc5goFUGMY48cGeP76b5qPkzo2TV6NfO%2FDypX6js1jCjg9B4iJoQQGu4D5URDXYfLozfIp13%2FCan%2FraucWTiqxq4fJjHZpjz1Tov6qSNR3iVxPLBN51x%2F9Qi7wxaaenjKxRvSv4C05cn53eShw0Oo5tyFg%3D%3D",
+        "isVerified": true,
+        "companyFileCategory": {
+          "internalId": "8ff431e8298c9615b2524ca139d89a5f685da8e541e44552dbf13970f71ea8c7",
+          "name": "domicile",
+          "label": "Surat Domisili",
+          "isRequired": false
+        }
+      },
+      {
+        "internalId": "7f6d70268298606449f1c4b2b76ebb0e335081509a468a0c32b1ec777ac0d202",
+        "fileName": "sample buku tabungan.jpg",
+        "fileExtension": "jpeg",
+        "fileSize": "65664",
+        "fileUrl": "https://storage.googleapis.com/ware6.com/user/upload/2020/266/bf25a0df-4a44-53e8-a6a0-0ecf372664de.jpeg",
+        "fileSignedUrl": "https://storage.googleapis.com/ware6.com/user/upload/2020/266/bf25a0df-4a44-53e8-a6a0-0ecf372664de.jpeg?GoogleAccessId=gcs-waresix%40certain-voyager-260205.iam.gserviceaccount.com&Expires=4133894400&Signature=Y1TdWPrD2JA8bUiE2PYDeO3rZ%2BJvtBDTPSRGZO5KWDRlwyjEVEf5Z8xDEUGtWT%2F8sEiYwULcKe2gyd2WF4qRJIlUTL00aJ2FtKD1Qyl9EzYSn5oSZROy1she3grzMNF5OPrZii8ZbOpJZkk63l24wbbXSkZl0CGZQVO%2F1JTiHgLAi%2BzI7keOgWwcHHVN2f%2F7k%2Fh0uakWdb2s%2FrCp%2BcIqBF8sk9Vts%2FuJINUj4vlmSG2tviE%2BYkqP57aH8bURc12LBY5iPDHsILqMjSH7FCp2QR0g2F2Tn28C52OLev%2FikjolMNPvdF7i2K%2BB8fLvPpvzFEeNi4SLoO0wgVBgklZFPA%3D%3D",
+        "isVerified": true,
+        "companyFileCategory": {
+          "internalId": "2e72476a054f15c8f8f2c9af51ed6f1774e31e70a9b318784d4a4573e191370d",
+          "name": "sk_kemenkunham",
+          "label": "SK Kemenkumham",
+          "isRequired": false
+        }
+      },
+      {
+        "internalId": "eb23e296ef471bee6d6474cbfa1fa8caeb8ce774bf036f8d8b5fb8a5b97e8ff6",
+        "fileName": "626310.jpg",
+        "fileExtension": null,
+        "fileSize": "784340",
+        "fileUrl": "https://storage.googleapis.com/ware6.com/user/upload/2020/115/b5563c39-e3d2-50db-849c-c4e423f7a3e4.jpeg",
+        "fileSignedUrl": "https://storage.googleapis.com/ware6.com/user/upload/2020/115/b5563c39-e3d2-50db-849c-c4e423f7a3e4.jpeg?GoogleAccessId=gcs-waresix%40certain-voyager-260205.iam.gserviceaccount.com&Expires=4133894400&Signature=rlVYN2MUSNJYwajCFNrVQNbO6NzrowDp7M5DdUDDUV3dUEDJZDsKrq%2FRZ7e%2FC%2Fi%2BDFSZp8HUzqBCsJOGAyJjNMkj2ZvuOX4a%2FCOmPP8zEqpcPP%2B62y5cHZOT3wzWebrRm1FLyYtJ%2Fim8VdXbU6jJnCwwCaSxmN7ekGR8O6Gj%2FoFMXGAxTrycbrvoe%2BtsBpH%2B91fFfUGVDnDKpOgQxJEKbm2%2F40p3kteV6sDLap%2FD0gSHA2MoDqR3W3vTHB7Vqi5QJIMGKc%2BvAwFYh6V5NIAkxmJqD259xsdK7%2F19IFVbAxPdOmmc0GkUY91FAGMI%2BO9KR58IytDjDC5AIjN8fYISzQ%3D%3D",
+        "isVerified": true,
+        "companyFileCategory": {
+          "internalId": "e3a74356c5c2379ed72bc6ca5fd2d10218b565130ec129cee67485be8cd59b1e",
+          "name": "company_deed",
+          "label": "Akta Perusahaan",
+          "isRequired": false
+        }
+      },
+      {
+        "internalId": "d3be9ed7c0e7bd1f439bbccdf7a15e9a6c55101913c139c95a89321498dbfe1b",
+        "fileName": "626310.jpg",
+        "fileExtension": null,
+        "fileSize": "784340",
+        "fileUrl": "https://storage.googleapis.com/ware6.com/user/upload/2020/115/90729bd2-a45b-52b2-9949-69502116a8dc.jpeg",
+        "fileSignedUrl": "https://storage.googleapis.com/ware6.com/user/upload/2020/115/90729bd2-a45b-52b2-9949-69502116a8dc.jpeg?GoogleAccessId=gcs-waresix%40certain-voyager-260205.iam.gserviceaccount.com&Expires=4133894400&Signature=lriMh3EMZTCnGIRRPiJJGG9wBlGRD6wGeRm52Cgo2q%2B5DReBJuOb8Z9T2UMr9PRG6aL2SleP2vRPF07h0KXjpMck79p5YmC%2FDKNPBl7JrvmM8UXWWr7%2Bc2CxGtVqi0a0iB0%2Bpjp4VpjsWjQVLxUdmAH83QI578aMw4nNcMuiDEUL3WNmFEq%2FIxtiZx9Bk1AWzC1AH9xEY%2FsPWg99Rjb6pfdDtbOhqsweVvc%2FOrkNo%2BCttiAU24YH53wrlCV%2BkZUqNMIdJjTa9ClwCMDm1kcxTY6nafU259kNhVn2I%2F1SB6qsnopVM%2BxTzgDEKJ6b7WhESt04HjQ0%2Bhmrg1L4n0uuSQ%3D%3D",
+        "isVerified": true,
+        "companyFileCategory": {
+          "internalId": "2f1014f969c1614edcf0730a5348eba15cf5181f3650b8d474efb0fb56b6acb6",
+          "name": "reference_letter_from_bank",
+          "label": "Surat Referensi dari Bank",
+          "isRequired": false
+        }
+      },
+      {
+        "internalId": "c96a988f4289707af1bd3583796ad9e62a6bef9f08d3a7f0427c98b9ddfcbdb1",
+        "fileName": "626310.jpg",
+        "fileExtension": null,
+        "fileSize": "784340",
+        "fileUrl": "https://storage.googleapis.com/ware6.com/user/upload/2020/115/eef1e4b6-2d63-5e3f-bf44-f4b85fa943aa.jpeg",
+        "fileSignedUrl": "https://storage.googleapis.com/ware6.com/user/upload/2020/115/eef1e4b6-2d63-5e3f-bf44-f4b85fa943aa.jpeg?GoogleAccessId=gcs-waresix%40certain-voyager-260205.iam.gserviceaccount.com&Expires=4133894400&Signature=laXH%2Bl17nTSA%2FayagPNUrHWu98OkWIwyWlpJP1v1xThk4mXIqB1IIpaxZeQNwQ7uPO9MT%2BjPMVvXw17H9YRFx68XqIXwCvnJ9edn0o6vK7C6yt8e4JwXLSyOL6NC3j5Ien8VAKV9o68OvWqXIj%2Fv2L3zb%2BjSuGFx7aWG%2FwM%2BteW5JD22QCpC0%2BnCre6rq9iIQL9IGogyM0q%2BKZyJK0ADGv9%2BSxNbvZBVoTD2xYh09LiMU0u3F3x3Aj8dNSKw4uEJKBtdF8rLePHId8X9BHiCAMmRou4TzQkUex5BQS7h5BdNvcYHP24cAdkxyJD%2BPX0FplGIbNL6698sOsXMDRTmYw%3D%3D",
+        "isVerified": true,
+        "companyFileCategory": {
+          "internalId": "9ee12d5ac9edb12208d771ab6a8a118d616c0043ba0fd50cb7baf11e0283aa1a",
+          "name": "ktp_in_charge",
+          "label": "KTP Penanggung Jawab",
+          "isRequired": true
+        }
+      }
+    ],
+    "individuFiles": [
+      {
+        "internalId": "7a1cab5fee7e0554fd527ba1f5a8e8f5c28b068e7bb66e4cd029d03dccb78791",
+        "fileName": "1200x1200bf-60.jpg",
+        "fileExtension": "jpeg",
+        "fileSize": "71402",
+        "fileUrl": "https://s3.ap-southeast-1.amazonaws.com/development-user.waresix.com/user/upload/2021/225/16b0096b-b6a6-5431-97fc-dd37153bacbb.jpeg",
+        "fileSignedUrl": "https://s3.ap-southeast-1.amazonaws.com/development-user.waresix.com/user/upload/2021/225/16b0096b-b6a6-5431-97fc-dd37153bacbb.jpeg",
+        "isVerified": null,
+        "companyFileCategory": {
+          "internalId": "bba5ea7fef2ba9f3f63f4f5ef1ef1fa2987fae28b7c9ec491044ed31c416d3285239762fe51fa9ba1f0c7bbd20471b58",
+          "name": "selfie",
+          "label": "Foto Wajah",
+          "isRequired": false
+        }
+      },
+      {
+        "internalId": "939837308eb1bff673397eef00e0185444034f6e87c7e6cb809c8d69cde3bca6",
+        "fileName": "1..PNG",
+        "fileExtension": "png",
+        "fileSize": "718603",
+        "fileUrl": "https://s3.ap-southeast-1.amazonaws.com/development-user.waresix.com/user/upload/2021/225/f40e8f21-7570-5416-a1ce-c7e2b2fe29eb.png",
+        "fileSignedUrl": "https://s3.ap-southeast-1.amazonaws.com/development-user.waresix.com/user/upload/2021/225/f40e8f21-7570-5416-a1ce-c7e2b2fe29eb.png",
+        "isVerified": null,
+        "companyFileCategory": {
+          "internalId": "b455f4ca025a4f4e0278cfa471036f8442404898e7872bb0fa696014ac5909ce",
+          "name": "sppkp",
+          "label": "SPPKP",
+          "isRequired": false
+        }
+      },
+      {
+        "internalId": "cb19c660f875f79b7bac475ba2b6a0ba5171faf1cf30d6fc505bd052f4fa76e2",
+        "fileName": "1..PNG",
+        "fileExtension": "png",
+        "fileSize": "718603",
+        "fileUrl": "https://s3.ap-southeast-1.amazonaws.com/development-user.waresix.com/user/upload/2021/225/b78d1958-b694-53e9-9e28-2f5dc11d6d35.png",
+        "fileSignedUrl": "https://s3.ap-southeast-1.amazonaws.com/development-user.waresix.com/user/upload/2021/225/b78d1958-b694-53e9-9e28-2f5dc11d6d35.png",
+        "isVerified": null,
+        "companyFileCategory": {
+          "internalId": "b455f4ca025a4f4e0278cfa471036f8442404898e7872bb0fa696014ac5909ce",
+          "name": "sppkp",
+          "label": "SPPKP",
+          "isRequired": false
+        }
+      }
+    ],
+    "phones": [
+      {
+        "internalId": "e49b15a54b94d489ebcd276e5991985ab20197e867d217503b8b9de548c6b6ac",
+        "dialCode": "62",
+        "phone": "276"
+      },
+      {
+        "internalId": "87760ee388b98ef15541fd1cfa07f1de2efd2be8647cef5f7557af97cdd3d2c9",
+        "dialCode": "62",
+        "phone": "965"
+      }
+    ],
+    "companyUnit": {
+      "internalId": "a1bdc82f9817bbd668de9ca74198b6ee548ee63384c4aaca97357b88bedfc67a",
+      "name": "pt",
+      "label": "PT"
+    },
+    "companyProfile": {
+      "internalId": "64e3a75da671c4bb9877f4839c6f3327a22578332280133e8bf9e285eaeeed56",
+      "fileUrl": "https://storage.googleapis.com/ware6.com/user/upload/2020/290/216c473a-6a80-528e-abdc-962b5c9898cf.jpeg",
+      "fileSignedUrl": "https://storage.googleapis.com/ware6.com/user/upload/2020/290/216c473a-6a80-528e-abdc-962b5c9898cf.jpeg?GoogleAccessId=gcs-waresix%40certain-voyager-260205.iam.gserviceaccount.com&Expires=4133894400&Signature=ncY1LnOHM8G67dqMbH6FEjQWGiVMaqa0mPbM66BnNufr6GhGR%2F2l%2BD5e59Ubo9MGZIA69oRhxXy2bcO7IBr9V68jhxwVbictC4Gdh52WMTD%2BtYtRoRHdRIbalwyX71NKyDhBpBodYG3urzCsMhp75BIMGZENVLnKPkrEffJeC6QZLARp%2F%2FdxT6Wc%2B7wn5kQY0RJ7DYmDG%2F39jQFFNbxWW%2FZgraROb2femrtmpBYjAPr10wPg9UZjKuWPd%2BgVuSKeEcuNbxLs60r333qWeXcB2IcUDugeQJVDAwiwGUtJ9CZRLgoX45Ec%2Bw%2BRTXpaDROimaTDgpfIbObJH3Xq6gzf%2FA%3D%3D",
+      "isVerified": true
+    },
+    "menuStepper": {
+      "internalId": "d4bcd90a7cfbcb9451e1f48492ec178f74443a3dd038c7474308469d75aec881",
+      "sequenceStep": 5,
+      "menu": "registrasi_company",
+      "name": "done"
+    },
+    "adminAccounts": [
+      {
+        "name": "Dwi Teguh Prasetyo ",
+        "email": "",
+        "jobPosition": "Admin"
+      },
+      {
+        "name": "Valensia",
+        "email": "valen@waresix.com",
+        "jobPosition": null
+      },
+      {
+        "name": "Rahmat Rasyidi Hakim",
+        "email": "rrhakim@waresix.com",
+        "jobPosition": "BD"
+      },
+      {
+        "name": "iqbal",
+        "email": "iansyori@waresix.com",
+        "jobPosition": "Business_development"
+      },
+      {
+        "name": "Kavin Ardana",
+        "email": "",
+        "jobPosition": "Planner"
+      },
+      {
+        "name": "yusuf nugroho",
+        "email": "ynugroho+666@waresix.com",
+        "jobPosition": null
+      },
+      {
+        "name": "john lennon",
+        "email": "test@mail.com",
+        "jobPosition": null
+      },
+      {
+        "name": "Admin Waresix",
+        "email": "mmarghareta+03@waresix.com",
+        "jobPosition": "Planner"
+      },
+      {
+        "name": "Ari Firmanto",
+        "email": "ari+12@waresix.com",
+        "jobPosition": "Direktur"
+      },
+      {
+        "name": "gunawan",
+        "email": "gsantoso+1@waresix.com",
+        "jobPosition": null
+      },
+      {
+        "name": "ferina christy patty",
+        "email": "ferina+77@waresix.com",
+        "jobPosition": "null"
+      },
+      {
+        "name": "Dwi Teguh Prasetyo",
+        "email": "dprasetyo@waresix.com",
+        "jobPosition": "Direktur"
+      },
+      {
+        "name": "krisna putrianti",
+        "email": "kputrianti@waresix.com",
+        "jobPosition": null
+      },
+      {
+        "name": "adi saputra nugraha",
+        "email": "adi@waresix.com",
+        "jobPosition": "null"
+      },
+      {
+        "name": "gendud",
+        "email": "maria+25@waresix.com",
+        "jobPosition": "Planner"
+      },
+      {
+        "name": "QA Automation as Tibeka",
+        "email": "qawaresix+11@gmail.com",
+        "jobPosition": "Admin"
+      },
+      {
+        "name": "rahidayat",
+        "email": "rahidayat@waresix.com",
+        "jobPosition": "Admin"
+      },
+      {
+        "name": "qa ",
+        "email": "psuhendra@gmail.com",
+        "jobPosition": null
+      },
+      {
+        "name": "planner 1",
+        "email": "psuhendra+02@waresix.com",
+        "jobPosition": "Planner 1"
+      },
+      {
+        "name": "bd ",
+        "email": "psuhendra+01@waresix.com",
+        "jobPosition": "BD 1"
+      },
+      {
+        "name": "planner qa",
+        "email": "qawaresix@gmail.com",
+        "jobPosition": "null"
+      },
+      {
+        "name": "purbo suhendra",
+        "email": "psuhendra@waresix.com",
+        "jobPosition": "-"
+      },
+      {
+        "name": "ap lead",
+        "email": "flsari+16@waresix.com",
+        "jobPosition": "AP Lead"
+      },
+      {
+        "name": "ap staff",
+        "email": "flsari+17@waresix.com",
+        "jobPosition": "AP Staff"
+      },
+      {
+        "name": "bambang sudiatmoko",
+        "email": "aasaputra92@gmail.com",
+        "jobPosition": "plannern"
+      },
+      {
+        "name": "test spv fe",
+        "email": "flsari+11@waresix.com",
+        "jobPosition": "SPV FE"
+      },
+      {
+        "name": "Admin Waresix",
+        "email": "test_tibeka@waresix.com",
+        "jobPosition": "Perusahaan"
+      }
+    ],
+    "waitingAccounts": [
+      {
+        "name": "Kavin Ardana",
+        "email": "",
+        "jobPosition": "Planner"
+      }
+    ],
+    "workCategory": {
+      "internalId": "cae27291478b7216815732fb5787e2e767a85c8cde48e7db6a55cc4d50dbb287",
+      "name": "corporate",
+      "label": "Corporate",
+      "createdAt": null,
+      "updatedAt": null
+    },
+    "appStepper": "",
+    "defaultRoute": "",
+    "defaultPoolLocation": "",
+    "defaultVehicleAmount": 0,
+    "defaultVehicleModelAmounts": [],
+    "defaultItemCategories": [],
+    "emergencyContactName": "",
+    "emergencyContactPhone": "",
+    "emergencyContactDialCode": "",
+    "bankAccounts": [
+      {
+        "internalId": "56c18f9c87c4dea53fd49e4dc59dc729f33ef2496107c221ac08536d61fb7490",
+        "number": "11111111111111",
+        "name": "Atma Jaya Yes",
+        "bank": {
+          "internalId": "1308a7204b092410838cca248c1c75f2",
+          "name": "Bank BNI Syariah"
+        },
+        "files": [
+          {
+            "internalId": "f0f4e5f554aab1837dd2d3b1eccd1b7e04f40bfe127fc42c9b9082d4ab0f2b2d",
+            "fileName": null,
+            "fileExtension": "jpeg",
+            "fileSize": null,
+            "fileUrl": "https://storage.googleapis.com/ware6.com/user/upload/2020/266/d0b8ae87-b653-547f-9db4-176a30f20862.jpeg",
+            "fileSignedUrl": "https://storage.googleapis.com/ware6.com/user/upload/2020/266/d0b8ae87-b653-547f-9db4-176a30f20862.jpeg?GoogleAccessId=gcs-waresix%40certain-voyager-260205.iam.gserviceaccount.com&Expires=4133894400&Signature=Ok%2F22zq6sx6Iy3DyaDikBGg9jIrCzPg9lsFwiHxIcqNKQn%2BZRwv88n7%2BHPt6SEqJp5I5iZkyHXcJbETlTRWqhHH6faWS%2F10rY5%2FZHQT%2BjbbEVzCLpok24WRrdbnE1fXsQCvxYsGSMjHZo%2FsE4MRxSG9NwmDvDHVuLF0uOYaECgn7HJJ3MV%2BX0uyuzlds2NQioaZEo0%2F1ueTMCGhm3dvgHqKYHktozwQwWUBb4fW4Q8CH63%2BFhOBpL7%2BZywT0qcX216JbInQwv5UjvlEBtr8Xe8Q8vBTy1qM9yRwcAsPth7LSB4w8uS3jzImrrn4ayy7VTfDYuwhs1f9jhyOLTEg3Xw%3D%3D",
+            "isVerified": false,
+            "fileCategory": "front_page",
+            "fileCategoryLabel": "Foto Halaman Depan Buku Tabungan"
+          }
+        ]
+      },
+      {
+        "internalId": "5a5927ae50a0b62bc33af26c9130b21fd9d26c8de04ec5374469eca1329dcb21",
+        "number": "117737715211",
+        "name": "Andre",
+        "bank": {
+          "internalId": "b3cf226cdde19f565711cf58d2349f7f",
+          "name": "Bank BCA"
+        },
+        "files": [
+          {
+            "internalId": "29ab872817db9403a3a9dc735114ebf18ddb2326fca39371a82925271a7a9f76",
+            "fileName": "download.jpeg",
+            "fileExtension": null,
+            "fileSize": null,
+            "fileUrl": "https://storage.googleapis.com/ware6.com/user/upload/2020/100/94c53578-94e2-556e-ad73-4e62336ef19f.jpeg",
+            "fileSignedUrl": "https://storage.googleapis.com/ware6.com/user/upload/2020/100/94c53578-94e2-556e-ad73-4e62336ef19f.jpeg?GoogleAccessId=gcs-waresix%40certain-voyager-260205.iam.gserviceaccount.com&Expires=4133894400&Signature=WrFBozvoYlF7GGu0FwsHIpPzzQvUJDPKbxKTDKbzM6fs%2F4EkJlH2DMBkesMtBnCHR%2FmlSdmx4wSojEAu%2BDDcq4iKmDZN9G4E5IcG5n5ViTIphk%2BElJa1keKSWSfKF4TXOzs816IdfvkTDa4UGWqdCl%2Bf9s%2BdeLUk6fDZQqUtJvAdpp3c2gdLvRL5VIM8wIabZSHvxNNnb%2BkPt9PNXPsjKcT7rPASQzD8GdsJj3LPW%2BJLNuzIuP6TNewokIZ6o9dojpZ5xDtwSwQsPux%2F1LjV8KPw5eXbsoLOPfzYN7dcBWWRHNMkI8qYpqFIEVWT3u8gOYH41h%2F1eCnDnuLzLRc66A%3D%3D",
+            "isVerified": false,
+            "fileCategory": "front_page",
+            "fileCategoryLabel": "Foto Halaman Depan Buku Tabungan"
+          },
+          {
+            "internalId": "fae103443429d1d54c16fa66fe5077f2b6bebc265426cbf95f54f4fa13c9f614",
+            "fileName": "626310.jpg",
+            "fileExtension": null,
+            "fileSize": null,
+            "fileUrl": "https://storage.googleapis.com/ware6.com/user/upload/2020/100/8bf1ada4-d876-50af-a347-f9ee1dfb39ff.jpeg",
+            "fileSignedUrl": "https://storage.googleapis.com/ware6.com/user/upload/2020/100/8bf1ada4-d876-50af-a347-f9ee1dfb39ff.jpeg?GoogleAccessId=gcs-waresix%40certain-voyager-260205.iam.gserviceaccount.com&Expires=4133894400&Signature=UuqFmMX9QDqJsSmBHv%2F%2FxAVPZEEBt438Bkwa61Q%2F1%2BwjF0n5mJ29f3fcb4sczViskmdHi4XPsx%2BYJKxOegURQfPT%2Bw7hvprLltBXfR6dyJNcNhZR0Wlz4DXZ6jZMzugy4kB5n0n8PZXu2LbLR25YmsxNjSHKOu3cAMSQJScXLOKnRIajVLKaZKCvLNoZXSskxHpWoDg219JpeWI4%2FyrD6QTXT1l0pgBfkBdleJVx1mRqmdPcutxzMMLzAAvQ31AYLZPwgMI8VMfAnet%2F8HF%2BP73M8yuClOSGnvzKbIHv0QRUMm2SIS3AoPW8aDGoqJF%2FOeftjM10IJRujYsIO8K%2BAQ%3D%3D",
+            "isVerified": false,
+            "fileCategory": "front_page",
+            "fileCategoryLabel": "Foto Halaman Depan Buku Tabungan"
+          },
+          {
+            "internalId": "b448250eade32790b067d92274bc996f27408d7aa581066ca525fe05452c02bd",
+            "fileName": "626310.jpg",
+            "fileExtension": null,
+            "fileSize": null,
+            "fileUrl": "https://storage.googleapis.com/ware6.com/user/upload/2020/100/41d44da7-a983-5379-ae95-e9ead4446296.jpeg",
+            "fileSignedUrl": "https://storage.googleapis.com/ware6.com/user/upload/2020/100/41d44da7-a983-5379-ae95-e9ead4446296.jpeg?GoogleAccessId=gcs-waresix%40certain-voyager-260205.iam.gserviceaccount.com&Expires=4133894400&Signature=dFBBVFvITorAbaQMabMve02gICSwyCiqeCLW4bHwf8OcREcwn5jHoKAcLfZhfv036pt%2BIitcPtwhMoN3KOldPY2PS3U%2F9M4D%2Fu2vSU3GHkMbEof3I02TTmB5ZciSWV%2B6mMqhnK9pYLcR4I7KolHgfgIu2nIaJ7uTEdiSVfftzWEc6afS0q5qQJeuOf5vkXtEj%2FNO9541ZtevKprfFAhOn064ONOdA3b9kkuQm01vKkhwykP8ucaCcHkWK1AJSq%2Fhs207fw2FICrKPi2lLtGReGmwrgixqtbdSALOpFyCetd4I3Yk2vQRzQUgqrhKvfD5P6Jo4k2JWlVRqpLJlcxgBA%3D%3D",
+            "isVerified": false,
+            "fileCategory": "front_page",
+            "fileCategoryLabel": "Foto Halaman Depan Buku Tabungan"
+          },
+          {
+            "internalId": "59868562379271993ddc46378605a2b7bcc76ca4ccc90bbae0a2fea2b54d1905",
+            "fileName": null,
+            "fileExtension": "png",
+            "fileSize": null,
+            "fileUrl": "https://storage.googleapis.com/ware6.com/user/upload/2020/194/371785c2-15cb-5c2a-b835-a9b04472267f.png",
+            "fileSignedUrl": "https://storage.googleapis.com/ware6.com/user/upload/2020/194/371785c2-15cb-5c2a-b835-a9b04472267f.png?GoogleAccessId=gcs-waresix%40certain-voyager-260205.iam.gserviceaccount.com&Expires=4133894400&Signature=NehGhaY1tZ%2Fpq7NFAdzfYPGDBDqwE1UUr2aEiMWWCCwszhyRIy4NhEnuQX72mk6Zq%2F1SBZ%2FBNE%2FSmuOwyCpvfKx5lbfmeu%2Fi3HlUXSUlonHnOar9Vs7lxhuOi6LJdCgWctUV0UTZflOD4N7BZprKgrxBic3oT%2BCDBZ1pbWp%2Ft4Vte%2B8mcaDJEecp9xLX%2BSAlq2VlsmW4Qq1Rsq82%2Fd8QIvd6jVoOjGy2MqUVfxHgsKjiXTpGIQtWNWgtZZJYf8DOpPf4YGgjvc1o0z%2F33im82Uv%2F0ABTEcotc%2FFPYxn864tR0g1P009ysRcBZojDXTzByKjlx6TEE2FIxklXuogeGA%3D%3D",
+            "isVerified": false,
+            "fileCategory": "front_page",
+            "fileCategoryLabel": "Foto Halaman Depan Buku Tabungan"
+          }
+        ]
+      },
+      {
+        "internalId": "9e7dcf1834e9d93f84a4090c29304b937b9896ccf67fff683bc1f3feff3c0a4f",
+        "number": "12414141414",
+        "name": "AAREDFQ",
+        "bank": {
+          "internalId": "b3cf226cdde19f565711cf58d2349f7f",
+          "name": "Bank BCA"
+        },
+        "files": [
+          {
+            "internalId": "35e3b7ea1e6969edb4f233a65ba32008f8bddedb4a798e949dc857054993c658",
+            "fileName": null,
+            "fileExtension": "jpeg",
+            "fileSize": null,
+            "fileUrl": "https://s3.ap-southeast-1.amazonaws.com/staging-transport.waresix.com/user/upload/2021/188/75625ee9-016e-5841-a2b4-40ad0e041790.jpeg",
+            "fileSignedUrl": "https://s3.ap-southeast-1.amazonaws.com/staging-transport.waresix.com/user/upload/2021/188/75625ee9-016e-5841-a2b4-40ad0e041790.jpeg",
+            "isVerified": true,
+            "fileCategory": "front_page",
+            "fileCategoryLabel": "Foto Halaman Depan Buku Tabungan"
+          }
+        ]
+      },
+      {
+        "internalId": "d66164d75933acb0c06027bb606dc1bb66baea79c1ede69b10187c7106ce4c3f",
+        "number": "214617357",
+        "name": "asde",
+        "bank": {
+          "internalId": "b3cf226cdde19f565711cf58d2349f7f",
+          "name": "Bank BCA"
+        },
+        "files": [
+          {
+            "internalId": "4ef4596956659429b6c254146c838c1830cb7b6a207931f3467ed3ddd711914e",
+            "fileName": null,
+            "fileExtension": "jpeg",
+            "fileSize": null,
+            "fileUrl": "https://s3.ap-southeast-1.amazonaws.com/staging-user.waresix.com/user/upload/2021/188/212ec8a8-4f49-58e1-b563-3a8bba1d5a95.jpeg",
+            "fileSignedUrl": "https://s3.ap-southeast-1.amazonaws.com/staging-user.waresix.com/user/upload/2021/188/212ec8a8-4f49-58e1-b563-3a8bba1d5a95.jpeg",
+            "isVerified": true,
+            "fileCategory": "front_page",
+            "fileCategoryLabel": "Foto Halaman Depan Buku Tabungan"
+          }
+        ]
+      }
+    ],
+    "companyDatas": [],
+    "owner": null,
+    "financeEmail": "crot+1@gmail.com",
+    "npwpNumber": "",
+    "idCardNumber": "",
+    "isHasYellowPlate": false
+  }
+}
