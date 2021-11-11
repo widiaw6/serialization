@@ -1,5 +1,6 @@
 package id.widiarifki.myapplication_moshi.data.network
 
+import com.squareup.moshi.Moshi
 import id.widiarifki.myapplication_moshi.data.Company
 import id.widiarifki.myapplication_moshi.data.network.response.BaseResponse
 import id.widiarifki.myapplication_moshi.data.network.response.CompanyListResponse
@@ -34,7 +35,7 @@ interface APIService {
 
                 INSTANCE = Retrofit.Builder()
                     .baseUrl(BASE_URL)
-                    .addConverterFactory(MoshiConverterFactory.create())
+                    .addConverterFactory(MoshiConverterFactory.create(Moshi.Builder().build()))
                     .client(httpClient)
                     .build()
                     .create(APIService::class.java)
