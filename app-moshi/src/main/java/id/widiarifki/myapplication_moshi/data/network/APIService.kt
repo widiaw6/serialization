@@ -19,7 +19,7 @@ interface APIService {
     suspend fun getSingleCompany(): BaseResponse<Company>
 
     companion object {
-        private const val BASE_URL = "https://raw.githubusercontent.com/widiaw6/serialization/master/_sample/"
+        private const val BASE_URL = "https://raw.githubusercontent.com/widiaw6/serialization/dev-moshi/_sample/"
 
         @Volatile
         private var INSTANCE: APIService? = null
